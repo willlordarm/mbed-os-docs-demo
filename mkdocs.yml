@@ -1,2 +1,5 @@
 site_name: DocsyMcDocsFace
 docs_dir: docs
+pages:
+- 'Introduction': 'index.md'
+  
