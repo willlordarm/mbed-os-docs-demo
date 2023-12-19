@@ -1,5 +1,8 @@
 site_name: DocsyMcDocsFace
 docs_dir: docs
 nav:
-- 'Introduction': 'index.md'
+  - Introduction to Mbed OS:
+    - 'Introduction': '/introduction.md'
+    - 'Hardware': '/hardware.md'
+
   
